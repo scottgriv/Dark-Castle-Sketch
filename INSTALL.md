@@ -1,4 +1,4 @@
-## Dark Castle Theme for [Example](https://example.com)
+## Dark Castle Theme for [Sketch](https://www.sketch.com/)
 
 ### Install using Git
 
@@ -14,6 +14,5 @@ Download using the [GitHub `.zip` download](https://github.com/scottgriv/Dark-Ca
 
 ### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Open the `Dark Castle Theme.sketch` file
+2. Enjoy !
